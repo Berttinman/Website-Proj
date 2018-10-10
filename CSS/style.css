@@ -5,10 +5,10 @@ h1 {
      color:#C0C0C0
  }
 .section-home-b {
-     text-align:left
+     float:left
  }
 .section-home-c {
-     float:right
+     
  }
 footer {
      background-color:#C0C0C0;width=100% height=20 px
