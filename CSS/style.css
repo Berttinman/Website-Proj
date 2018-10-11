@@ -1,5 +1,8 @@
 nav                          {
-     background-color:#DBA8AC;width: 100%; padding: 15px; text-align: right;
+     background-color:#DBA8AC;width: 100%; padding: 15px;
+ }
+a                            {
+     padding-left: 50px
  }
 h1                           {
      color: #5E0B15;
