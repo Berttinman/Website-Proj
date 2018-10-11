@@ -2,19 +2,22 @@ nav {
      background-color:#DBA8AC;width:100%; padding: 15px;
  }
 h1 {
-     color:#5E0B15
+     color:#5E0B15;
  }
 .section-home-b {
-     float:left; padding: 40px; background-color: #D9DBF1
+     float:left; padding: 40px; background-color: #D9DBF1;
  }
 h2              {
-     font-size: 25px; padding-top: 0px
+     font-size: 25px; padding-top: 0px;
  }
 .section-home-c {
-     padding: 40px; background-color: #89A894
+     padding: 40px; background-color: #89A894;
  }
 h3              {
-     font-size: 25px; padding-top: 0px
+     font-size: 25px; padding-top: 0px;
+ }
+.home-ul        {
+     padding-left: 5px;
  }
 footer {
      background-color:#DBA8AC;width:100%; padding: 15px;
