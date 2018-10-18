@@ -27,7 +27,7 @@ footer                       {
  }
 @media (max-width: 480px)    {
      .section-home-a img      {
-     width: 100%; height: calc(width * 1)
+     width: 100%; height: calc(width * 1);
   }
      h1                       {
      font-size: 20px;  
